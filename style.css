@@ -1,0 +1,55 @@
+div.container {
+    width: 1426px;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.logo {
+    font-size: 74px;
+    font-weight: 800;
+    margin-top: 20px;
+    text-align: center;
+}
+.inner {
+    display: flex;
+}
+h1 {
+    font-weight: 300;
+    font-size: 74px;
+    margin-top: 254px;
+    margin-left: 47px;
+    width: 866px;
+    line-height: 89%;
+    margin-bottom: 36px;
+}
+.more {
+    font-size: 40px;
+    font-weight: 800;
+    padding: 10px 15px;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    border: 6px black solid;
+    border-radius: 12px;
+
+    margin-left: 47px;
+}
+.iph1 {
+    height: 476px;
+    width: 436px;
+
+    
+    position: absolute;
+    z-index: 2;
+    right: 106px;
+    top: 218px;
+}
+.iph2 {
+    height: 507px;
+    width: 268px;
+
+    position: absolute;
+    z-index: 1;
+    right: 64px;
+    top: 176px;
+}
